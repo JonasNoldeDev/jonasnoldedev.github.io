@@ -1,5 +1,5 @@
 // service worker
-var currentCacheVersion = 'codi-lernapp-v1';
+var currentCacheVersion = 'codi-lernapp-v2';
 
 self.addEventListener('install', function (event) {
     event.waitUntil(
